@@ -1,6 +1,6 @@
 // @ts-types="npm:@types/express@4.17.15"
 
-import express from "express";
+import express from "npm:express";
 
 const app = express();
 
